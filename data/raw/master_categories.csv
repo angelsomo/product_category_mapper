@@ -1,0 +1,9 @@
+master_category_id,category_name,category_path,aliases
+1001,Potato Chips,Snacks > Salty Snacks > Chips,"chips,crisps,potato chips,lays"
+1002,Crackers,Snacks > Savory Biscuits > Crackers,"crackers,tuc,savoury biscuits"
+1003,Soft Drinks,Beverages > Soft Drinks,"soft drinks,refreshments,beverages"
+1004,Greek Yogurt,Dairy > Yogurt > Greek Yogurt,"greek yogurt,strained yogurt,fage"
+1005,Cat Wet Food,Pet Supplies > Cat Food > Wet Food,"cat wet food,cat food,pouch,gourmet"
+1006,Cola Soft Drinks,Beverages > Soft Drinks > Cola,"cola,coca cola,zero,coke"
+1007,Margarine,Dairy Alternatives > Spreads > Margarine,"margarine,spread,flora,buttery spread"
+1008,Potato Snacks,Snacks > Salty Snacks > Potato Snacks,"chips,crisps,lays,oven baked,paprika"
