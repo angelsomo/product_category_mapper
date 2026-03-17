@@ -50,34 +50,32 @@ Structured Output
 
 ## Features
 
-### 🔤 Text Processing
+### Text Processing
 - Unicode normalization
 - Accent removal (Greek/Latin compatibility)
 - Punctuation handling
 - Consistent normalization across products and categories
 
-### 🔍 Category Matching
+### Category Matching
 - TF-IDF vectorization (unigrams + bigrams)
 - Cosine similarity scoring
 - Top-3 candidate retrieval
 
-### 🧠 Domain Enrichment
+### Domain Enrichment
 - Category aliases (e.g. *“chips”, “crisps”, “lays”*)
 - Brand-aware matching via alias expansion
 - Improved recall for real-world product titles
 
-### ⚖️ Confidence & Review Logic
+### Confidence & Review Logic
 - Score-based confidence estimation
 - Margin-based ambiguity detection
 - Automatic routing of low-confidence cases
 
-### 📊 Evaluation
+### Evaluation
 - Top-1 accuracy
 - Top-3 accuracy
 - Review rate
 - Accuracy of auto-approved predictions
-
----
 
 ------------------------------------------------------------------------
 
